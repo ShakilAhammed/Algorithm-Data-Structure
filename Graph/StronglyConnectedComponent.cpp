@@ -109,7 +109,7 @@ int main() {
 
 */
 
-/* Sample Output
+/* Output
 
     Group no 1# 2 1 3
     Group no 2# 4
